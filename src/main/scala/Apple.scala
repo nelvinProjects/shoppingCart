@@ -1,0 +1,1 @@
+class Apple(val price: Double = 0.60) extends Fruit(price)

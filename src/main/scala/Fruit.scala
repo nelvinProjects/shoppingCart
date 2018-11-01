@@ -1,0 +1,1 @@
+abstract class Fruit(price: Double)
